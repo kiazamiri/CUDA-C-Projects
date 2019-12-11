@@ -1,1 +1,1 @@
-# CUDA-C-Projects
+# CUDA C Projects
