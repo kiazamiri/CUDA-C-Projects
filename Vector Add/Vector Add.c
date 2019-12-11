@@ -1,3 +1,4 @@
+// This code creats two random vectors and adds them together using GPUs.
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
